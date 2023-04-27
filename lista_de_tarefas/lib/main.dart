@@ -178,6 +178,7 @@ class _HomeState extends State<Home> {
                 }),
             duration: const Duration(seconds: 3),
           );
+          ScaffoldMessenger.of(context).removeCurrentSnackBar();
           ScaffoldMessenger.of(context).showSnackBar(snack);
         });
       },
