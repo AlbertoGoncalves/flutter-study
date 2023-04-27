@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747290090007",
+    "project_id": "agvendas-7bd97",
+    "storage_bucket": "agvendas-7bd97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747290090007:android:efbefc2a99c2927f9a5a52",
+        "android_client_info": {
+          "package_name": "br.com.agvendas.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747290090007-7afo6doernmt2emflsrdunhig1n44i9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA2jT5xhFqT5xeTG2RcWRo-DOTAMD1a6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747290090007-7afo6doernmt2emflsrdunhig1n44i9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
