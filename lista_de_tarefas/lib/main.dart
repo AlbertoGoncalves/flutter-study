@@ -190,6 +190,7 @@ class _HomeState extends State<Home> {
         ),
         activeColor: Colors.blueAccent,
         checkColor: Colors.white,
+        
         onChanged: (check) => (_alterToDo(check, index)),
       ),
     );
